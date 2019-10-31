@@ -4,6 +4,8 @@ Linky is an open sourced Go Link service with extremely intuitive UI.
 Don't know what a Go Link service is? Maybe a SasS service like
 [Go Links](https://www.golinks.io/) can help you understand.
 
+![Screenshot](https://github.com/Chentai-Kao/linky/blob/master/screenshot.png)
+
 ## Alternatives to Linky
 ### If you just want to use Go Link personally...
 Consider a dead simple Chrome plugin like
